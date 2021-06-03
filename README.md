@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Muhammad Ismail Zam Zam Butt
 
-<!--
-**mismailzz/mismailzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github.com/mismailzz/mismailzzbutt/blob/master/ismail_profile.jpeg" height="300"> 
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+## ITECHACK
+- [Getting Started with PowerCLI](https://itechack.com/2021/01/22/vmware-powercli/)
+- [Getting Started with PowerCLI Commands](https://itechack.com/2021/02/02/powercli-get-information-of-vmware-esxi-hypervisor/)
+- [Puppet](https://itechack.com/2021/02/09/introduction-to-puppet/)
+- [Much More..](https://itechack.com/)
+
+**Happy Learning!**
+
+
