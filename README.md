@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Muhammad Ismail Zam Zam Butt
 
-<img src="https://github.com/mismailzz/mismailzzbutt/blob/master/ismail_profile.jpeg" height="300"> 
+<img src="https://github.com/mismailzz/mismailzz/blob/main/ismail_profile.png" height="300"> 
 
 Here are some ideas to get you started:
 
